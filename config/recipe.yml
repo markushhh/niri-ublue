@@ -1,7 +1,7 @@
 name: niri-ublue
 description: My atomic Fedora niri image.
 
-base-image: ghcr.io/ublue-os/base
+base-image: ghcr.io/ublue-os/base-main
 image-version: latest
 
 modules:
