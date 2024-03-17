@@ -1,7 +1,7 @@
 type: rpm-ostree
 install:
   - yalter/niri
-#  - niri
+  - niri
 #  - hyprland
   - waybar
 #  - xdg-desktop-portal-hyprland
