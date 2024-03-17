@@ -1,0 +1,5 @@
+ublue_variants:
+  - label: markushhh/niri-ublue
+    ks: /kickstart/ublue-os.ks
+    flavors:
+      - label: niri-ublue
