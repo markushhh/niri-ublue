@@ -15,6 +15,7 @@ modules:
       - https://copr.fedorainfracloud.org/coprs/yalter/niri/repo/fedora-40/yalter-niri-fedora-40.repo
     install:
       - niri
+      - waybar
       - fish
       - starship
       - distrobox
