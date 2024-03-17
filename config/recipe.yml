@@ -23,16 +23,12 @@ modules:
       - xdg-desktop-portal-gtk
       - xdg-desktop-portal-gnome
       - gnome-keyring
-      #
-      - fish
-      - starship
       - distrobox
       - konsole
-      - micro
-      - openssl
     remove:
       - firefox
       - firefox-langpacks
+      - toolbox
 
   - from-file: sddm-packages.yml
   - from-file: sddm-scripts.yml
