@@ -20,6 +20,9 @@ modules:
       - waybar
       - swaybg
       - swayidle
+      - xdg-desktop-portal-gtk
+      - xdg-desktop-portal-gnome
+      - gnome-keyring
       #
       - fish
       - starship
@@ -30,6 +33,9 @@ modules:
     remove:
       - firefox
       - firefox-langpacks
+
+  - from-file: sddm-packages.yml
+  - from-file: sddm-scripts.yml
 
   - type: default-flatpaks
     notify: true
