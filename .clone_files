@@ -1,0 +1,5 @@
+wget https://raw.githubusercontent.com/YaLTeR/niri/main/resources/niri-session ./config/files/usr/bin/niri-session
+wget https://raw.githubusercontent.com/YaLTeR/niri/main/resources/niri.desktop ./config/files/usr/share/wayland-sessions/niri.desktop
+wget https://raw.githubusercontent.com/YaLTeR/niri/main/resources/niri-portals.conf ./config/files/usr/share/xdg-desktop-portal/niri-portals.conf
+wget https://raw.githubusercontent.com/YaLTeR/niri/main/resources/niri.service ./config/files/usr/lib/systemd/user/niri.service
+wget https://raw.githubusercontent.com/YaLTeR/niri/main/resources/niri-shutdown.target ./config/files/usr/lib/systemd/user/niri-shutdown.target
