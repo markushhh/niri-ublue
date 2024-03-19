@@ -1,6 +1,6 @@
 # niri-ublue
 
-`niri-ublue` is an atomic Fedora image with the window manager `niri`.
+`niri-ublue` is a Fedora atomic niri image with the window manager `niri`.
 
 ## Installation
 
